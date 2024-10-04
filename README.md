@@ -19,3 +19,7 @@ https://raw-recipes-clean-upgrad.s3.amazonaws.com/RAW_recipes_cleaned.csv
 
 #### raw ratings data
 https://raw-interactions-upgrad.s3.amazonaws.com/RAW_interactions_cleaned.csv
+
+
+#### Also find the S3 url below for the jupyter notebook file.
+https://mybucks326.s3.amazonaws.com/Receipe_EDA_pyspark_aws.ipynb
